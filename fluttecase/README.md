@@ -69,6 +69,7 @@ lib/
    - Clear search option
    - "User not found" state handling
 
+   
 3. **User Details**
    - Modal popup display
    - Comprehensive user information
